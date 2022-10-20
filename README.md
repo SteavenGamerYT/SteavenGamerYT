@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👷 Check out what I'm currently working on
 
-<!--
-**SteavenGamerYT/SteavenGamerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenGamerYT/SteavenToolBox7](https://github.com/SteavenGamerYT/SteavenToolBox7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
+- [SteavenGamerYT/SteavenBuntu](https://github.com/SteavenGamerYT/SteavenBuntu) - Ubuntu 20.4 customizations from SteavenGamerYT
+### 🌱 My latest projects
 
-Here are some ideas to get you started:
+- [SteavenGamerYT/Gaming-on-Linux](https://github.com/SteavenGamerYT/Gaming-on-Linux) - Gaming on Linux - Guide
+- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenGamerYT/SteavenToolBox7](https://github.com/SteavenGamerYT/SteavenToolBox7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
+- [SteavenGamerYT/SteavenBuntu](https://github.com/SteavenGamerYT/SteavenBuntu) - Ubuntu 20.4 customizations from SteavenGamerYT
+### 🔨 My recent Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SteavenGamerYT/SteavenToolBox7](https://github.com/SteavenGamerYT/SteavenToolBox7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
+- [SteavenGamerYT/SteavenBuntu](https://github.com/SteavenGamerYT/SteavenBuntu) - Ubuntu 20.4 customizations from SteavenGamerYT
+- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
+### ⭐ Recent Stars
+
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [asheroto/winget-installer](https://github.com/asheroto/winget-installer) - Install winget tool using PowerShell! Prerequisites automatically installed. Works on Windows 10/11 and Server 2019/2022.
+### 📫 How to reach me:
+  - Youtube   : <https://youtube.com/SteavenGamerYT1>
+  - TikTok    : <https://tiktok.com/@steavengameryt1>
+  - Discord   : <https://discord.gg/CyHjchwDFr>
