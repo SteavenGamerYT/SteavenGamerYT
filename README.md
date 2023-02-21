@@ -5,7 +5,7 @@
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 ### 🌱 My latest projects
 
-- [SteavenGamerYT/SteavenToolBox-For-Arch](https://github.com/SteavenGamerYT/SteavenToolBox-For-Arch) - SteavenToolBox For Arch 
+- [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [ArabCraft.ddns.net:1313](http://arabcraft.ddns.net:1313)
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 - [SteavenGamerYT/Linux-Simple-Commands-AutoMade](https://github.com/SteavenGamerYT/Linux-Simple-Commands-AutoMade) - Simple Scripts to do Simple Things
 - [SteavenGamerYT/SteavenToolBox-For-Ubuntu](https://github.com/SteavenGamerYT/SteavenToolBox-For-Ubuntu) - SteavenToolBox For Ubuntu 
