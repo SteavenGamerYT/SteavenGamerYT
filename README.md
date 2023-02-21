@@ -1,6 +1,6 @@
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO ![](http://arabcraft.ddns.net:1313)
+- [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [ArabCraft.ddns.net:1313](http://arabcraft.ddns.net:1313)
 - [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 ### 🌱 My latest projects
