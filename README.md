@@ -3,19 +3,19 @@
 - [SteavenGamerYT/dot-files-windows](https://github.com/SteavenGamerYT/dot-files-windows) - Windows 10 Config Files from SteavenGamerYT
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [ArabCraft.ddns.net](https://boisterous-toffee-60cc83.netlify.app)
-- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - SteavenToolBox - Deblot Windows, Install Programs
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/dot-files-windows](https://github.com/SteavenGamerYT/dot-files-windows) - Windows 10 Config Files from SteavenGamerYT
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [ArabCraft.ddns.net](https://boisterous-toffee-60cc83.netlify.app)
-- [SteavenGamerYT/SteavenToolBox-For-Ubuntu](https://github.com/SteavenGamerYT/SteavenToolBox-For-Ubuntu) - SteavenToolBox For Ubuntu 
-- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
-- [SteavenGamerYT/SteavenToolBox7](https://github.com/SteavenGamerYT/SteavenToolBox7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
+- [SteavenToolBox/Ubuntu](https://github.com/SteavenToolBox/Ubuntu) - SteavenToolBox For Ubuntu 
+- [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenToolBox/Windows7](https://github.com/SteavenToolBox/Windows7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
 ### 🔨 My recent Pull Requests
 
-- [SteavenGamerYT/SteavenToolBox7](https://github.com/SteavenGamerYT/SteavenToolBox7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
-- [SteavenGamerYT/SteavenToolBox](https://github.com/SteavenGamerYT/SteavenToolBox) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenToolBox/Windows7](https://github.com/SteavenToolBox/Windows7) - SteavenToolBox7 - Deblot Windows 7, Install Programs 7
+- [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - SteavenToolBox - Deblot Windows, Install Programs
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - Config Files from SteavenGamerYT
 
 ### ⭐ Recent Stars
