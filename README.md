@@ -25,4 +25,4 @@
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/SteavenGamerYT1>
   - TikTok    : <https://tiktok.com/@steavengameryt1>
-  - Discord   : <https://discord.gg/NCjT8zxEpX>
+  - Discord   : <https://discord.gg/RRDMFePkPF>
