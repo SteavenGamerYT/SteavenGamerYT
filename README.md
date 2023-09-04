@@ -3,10 +3,11 @@
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - My Linux Dot-files
 - [SteavenGamerYT/wallpapers](https://github.com/SteavenGamerYT/wallpapers) - My Wallpapers
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [boisterous-toffee-60cc83.netlify.app](https://boisterous-toffee-60cc83.netlify.app)
-- [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - SteavenToolBox - Deblot Windows, Install Programs
+- [SteavenGamerYT/LinuxScripts](https://github.com/SteavenGamerYT/LinuxScripts) - Arch Linux Scripts to Automade Some Things!
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/wallpapers](https://github.com/SteavenGamerYT/wallpapers) - My Wallpapers
+- [SteavenGamerYT/LinuxScripts](https://github.com/SteavenGamerYT/LinuxScripts) - Arch Linux Scripts to Automade Some Things!
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [boisterous-toffee-60cc83.netlify.app](https://boisterous-toffee-60cc83.netlify.app)
 - [SteavenGamerYT/super-fps](https://github.com/SteavenGamerYT/super-fps) - Unity Fps Game
 - [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - SteavenToolBox - Deblot Windows, Install Programs
@@ -14,6 +15,7 @@
 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) - My Linux Dot-files
 - [SteavenGamerYT/wallpapers](https://github.com/SteavenGamerYT/wallpapers) - My Wallpapers
+- [SteavenGamerYT/LinuxScripts](https://github.com/SteavenGamerYT/LinuxScripts) - Arch Linux Scripts to Automade Some Things!
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [boisterous-toffee-60cc83.netlify.app](https://boisterous-toffee-60cc83.netlify.app)
 
 ### ⭐ Recent Stars
@@ -24,3 +26,5 @@
   - Youtube   : <https://youtube.com/SteavenGamerYT1>
   - TikTok    : <https://tiktok.com/@steavengameryt1>
   - Discord   : <https://discord.gg/zgxvZXRhgS>
+
+https://github.com/SteavenGamerYT/LinuxScripts
