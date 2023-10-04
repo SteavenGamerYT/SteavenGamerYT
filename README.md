@@ -19,7 +19,6 @@
 
 - [SteavenGamerYT/website](https://github.com/SteavenGamerYT/website) - My Website made in HUGO [boisterous-toffee-60cc83.netlify.app](https://boisterous-toffee-60cc83.netlify.app)
 - [SteavenGamerYT/os-install-scripts](https://github.com/SteavenGamerYT/os-install-scripts) - My Os install scripts
-
 - [SteavenGamerYT/wallpapers](https://github.com/SteavenGamerYT/wallpapers) - My Wallpapers
 
 ### ⭐ Recent Stars
