@@ -26,6 +26,9 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [asheroto/winget-installer](https://github.com/asheroto/winget-installer) - Install winget tool using PowerShell! Prerequisites automatically installed. Works on Windows 10/11 and Server 2019/2022.
 ### 📫 How to reach me:
+  - Website   : <https://boisterous-toffee-60cc83.netlify.app>
+  - Discord   : <https://discord.gg/x3VgsCtrDk>
   - Youtube   : <https://youtube.com/SteavenGamerYT1>
+  - Twitch    : <https://twitch.tv/steavengameryt1>
   - TikTok    : <https://tiktok.com/@steavengameryt1>
-  - Discord   : <https://discord.gg/zgxvZXRhgS>
+  - Twitter   : <https://twitter.com/omarhanykasban1>
