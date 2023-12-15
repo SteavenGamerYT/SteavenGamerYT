@@ -14,17 +14,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Generate README
-        uses: muesli/readme-scribe@master
+        run: npx readme-scribe --write-to README.md --template README.gtpl
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        with:
-          template: 'README.gtpl'
-          writeTo: 'README.md'
 
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'markscribe: update README.md'
