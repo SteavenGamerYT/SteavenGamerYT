@@ -21,11 +21,11 @@
 - [Improve Runtime installer of Winutil](https://github.com/ChrisTitusTech/winutil/pull/1254) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
 - [mrglaster/Source-models-decompiler-cmd](https://github.com/mrglaster/Source-models-decompiler-cmd) - Crowbar-based command-line utility for Source game engine models decompilation
 - [ata4/bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
-- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free &amp; Open source macOS Cursors.
 ### 📰 Recent Blog Posts
 
 - [Minecraft Repack (Steaven Repacks)](https://boisterous-toffee-60cc83.netlify.app/minecraft/)
