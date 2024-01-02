@@ -3,8 +3,8 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
 - [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
+- [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/LinuxScripts](https://github.com/SteavenGamerYT/LinuxScripts) - Arch Linux Scripts to Automade Some Things!
@@ -28,11 +28,11 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 ### 📰 Recent Blog Posts
 
+- [Set Default Apps On Linux](https://boisterous-toffee-60cc83.netlify.app/set-default-apps-on-linux/)
 - [Minecraft Repack (Steaven Repacks)](https://boisterous-toffee-60cc83.netlify.app/minecraft/)
 - [My Apps](https://boisterous-toffee-60cc83.netlify.app/my-apps/)
 - [My New PC](https://boisterous-toffee-60cc83.netlify.app/my-new-pc/)
 - [My Linux Life](https://boisterous-toffee-60cc83.netlify.app/my-linux-life/)
-- [The Ultimate Linux Gaming Guide](https://boisterous-toffee-60cc83.netlify.app/ultimate-linux-gaming-guide/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
