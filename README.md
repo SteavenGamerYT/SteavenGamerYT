@@ -28,11 +28,11 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 ### 📰 Recent Blog Posts
 
-- [Angry Birds Classic](https://boisterous-toffee-60cc83.netlify.app/angry-birds-classic/)
-- [Angry Birds Rio 2](https://boisterous-toffee-60cc83.netlify.app/angry-birds-rio-2/)
-- [Angry Birds Seasons](https://boisterous-toffee-60cc83.netlify.app/angngry-birds-seasons/)
-- [Angry Birds Star Space](https://boisterous-toffee-60cc83.netlify.app/angry-birds-star-space/)
-- [Angry Birds Star Wars](https://boisterous-toffee-60cc83.netlify.app/angry-birds-star-wars/)
+- [Batman - Arkham City](https://boisterous-toffee-60cc83.netlify.app/batman-arkham-city/)
+- [Blur](https://boisterous-toffee-60cc83.netlify.app/blur/)
+- [Overcooked! 2](https://boisterous-toffee-60cc83.netlify.app/overcooked2/)
+- [Overcooked! All You Can Eat](https://boisterous-toffee-60cc83.netlify.app/overcooked-all-you-can-eat/)
+- [Ozzy Bubbles](https://boisterous-toffee-60cc83.netlify.app/ozzy-bubbles/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
