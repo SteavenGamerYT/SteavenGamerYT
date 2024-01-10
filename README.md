@@ -3,18 +3,18 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
+- [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
 - [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenGamerYT/LinuxScripts](https://github.com/SteavenGamerYT/LinuxScripts) - Arch Linux Scripts to Automade Some Things!
 ### 🌱 My latest projects
 
+- [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
 - [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
 - [SteavenGamerYT/wma-converter](https://github.com/SteavenGamerYT/wma-converter) - A python script to convert wma into mp3
 - [SteavenGamerYT/Mutter-Optimus](https://github.com/SteavenGamerYT/Mutter-Optimus) - Fixs A issue that I had on Gnome for Years!
 - [SteavenGamerYT/mutter](https://github.com/SteavenGamerYT/mutter) - 
-- [SteavenGamerYT/os-install-scripts](https://github.com/SteavenGamerYT/os-install-scripts) - 
 ### 🔨 My recent Pull Requests
 
 - [Test 2023 12](https://github.com/SteavenGamerYT/Website/pull/4) on [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website)
@@ -28,11 +28,11 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 ### 📰 Recent Blog Posts
 
-- [Batman - Arkham City](https://boisterous-toffee-60cc83.netlify.app/batman-arkham-city/)
-- [Blur](https://boisterous-toffee-60cc83.netlify.app/blur/)
-- [Overcooked! 2](https://boisterous-toffee-60cc83.netlify.app/overcooked2/)
-- [Overcooked! All You Can Eat](https://boisterous-toffee-60cc83.netlify.app/overcooked-all-you-can-eat/)
-- [Ozzy Bubbles](https://boisterous-toffee-60cc83.netlify.app/ozzy-bubbles/)
+- [Set Default Apps On Linux](https://boisterous-toffee-60cc83.netlify.app/set-default-apps-on-linux/)
+- [My Apps](https://boisterous-toffee-60cc83.netlify.app/my-apps/)
+- [My New PC](https://boisterous-toffee-60cc83.netlify.app/my-new-pc/)
+- [My Linux Life](https://boisterous-toffee-60cc83.netlify.app/my-linux-life/)
+- [The Ultimate Linux Gaming Guide](https://boisterous-toffee-60cc83.netlify.app/ultimate-linux-gaming-guide/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
