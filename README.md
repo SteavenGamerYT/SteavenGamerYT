@@ -3,18 +3,18 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
 - [SteavenGamerYT/os-install-scripts](https://github.com/SteavenGamerYT/os-install-scripts) - 
 - [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - A Free Open Source Toolbox For Windows 11 and Windows 10 and Windows 7!
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 ### 🌱 My latest projects
 
+- [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
 - [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
 - [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
 - [SteavenGamerYT/wma-converter](https://github.com/SteavenGamerYT/wma-converter) - A python script to convert wma into mp3
 - [SteavenGamerYT/Mutter-Optimus](https://github.com/SteavenGamerYT/Mutter-Optimus) - Fixs A issue that I had on Gnome for Years!
-- [SteavenGamerYT/mutter](https://github.com/SteavenGamerYT/mutter) - 
 ### 🔨 My recent Pull Requests
 
 - [Test 2023 12](https://github.com/SteavenGamerYT/Website/pull/4) on [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website)
