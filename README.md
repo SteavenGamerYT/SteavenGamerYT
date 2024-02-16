@@ -21,11 +21,11 @@
 - [Improve Runtime installer of Winutil](https://github.com/ChrisTitusTech/winutil/pull/1254) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 ### ⭐ Recent Stars
 
+- [iamtraction/ZOD](https://github.com/iamtraction/ZOD) - This is a decompression bomb (also known as zip of death or zip bomb) designed to crash or render useless the program or system reading it.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
 - [mrglaster/Source-models-decompiler-cmd](https://github.com/mrglaster/Source-models-decompiler-cmd) - Crowbar-based command-line utility for Source game engine models decompilation
 - [ata4/bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ### 📰 Recent Blog Posts
 
 - [Set Default Apps On Linux](https://boisterous-toffee-60cc83.netlify.app/set-default-apps-on-linux/)
