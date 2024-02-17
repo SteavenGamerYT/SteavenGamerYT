@@ -3,10 +3,10 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
 - [SteavenGamerYT/os-install-scripts](https://github.com/SteavenGamerYT/os-install-scripts) - 
 - [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - A Free Open Source Toolbox For Windows 11 and Windows 10 and Windows 7!
 ### 🌱 My latest projects
 
