@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
 - [SteavenGamerYT/os-install-scripts](https://github.com/SteavenGamerYT/os-install-scripts) - 
 - [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
-- [SteavenToolBox/Windows](https://github.com/SteavenToolBox/Windows) - A Free Open Source Toolbox For Windows 11 and Windows 10 and Windows 7!
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
@@ -29,11 +29,11 @@
 - [ata4/bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler
 ### 📰 Recent Blog Posts
 
-- [Set Default Apps On Linux](https://boisterous-toffee-60cc83.netlify.app/set-default-apps-on-linux/)
-- [My Apps](https://boisterous-toffee-60cc83.netlify.app/my-apps/)
-- [My New PC](https://boisterous-toffee-60cc83.netlify.app/my-new-pc/)
-- [My Linux Life](https://boisterous-toffee-60cc83.netlify.app/my-linux-life/)
-- [The Ultimate Linux Gaming Guide](https://boisterous-toffee-60cc83.netlify.app/ultimate-linux-gaming-guide/)
+- [How to fix not enough ram error in some games](https://boisterous-toffee-60cc83.netlify.app/games/)
+- [How to Improve Battery Life on Linux](https://boisterous-toffee-60cc83.netlify.app/battery-life/)
+- [How to test gpu in linux](https://boisterous-toffee-60cc83.netlify.app/how-to-test-gpu-in-linux/)
+- [Ubuntu apt ads](https://boisterous-toffee-60cc83.netlify.app/ubuntu-apt-ads/)
+- [Wayland](https://boisterous-toffee-60cc83.netlify.app/wayland/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
