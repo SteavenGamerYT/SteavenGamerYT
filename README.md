@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/FFMPEG](https://github.com/SteavenGamerYT/FFMPEG) - My FFMPEG Scripts
 - [MMEDO1/test](https://github.com/MMEDO1/test) - test
 - [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
