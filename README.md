@@ -3,37 +3,39 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/unity-project](https://github.com/SteavenGamerYT/unity-project) - Unity Poject
-- [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
-- [SteavenGamerYT/ArchLinuxRepo](https://github.com/SteavenGamerYT/ArchLinuxRepo) - Best Linux repo for Omar Packages
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenGamerYT/FFMPEG](https://github.com/SteavenGamerYT/FFMPEG) - My FFMPEG Scripts
+- [SteavenLinux/FedoraSettings](https://github.com/SteavenLinux/FedoraSettings) - This is the Settings that is related to fedora linux
+- [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
+- [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
+- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 ### 🌱 My latest projects
 
+- [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
+- [SteavenGamerYT/Cuphead-decomp](https://github.com/SteavenGamerYT/Cuphead-decomp) - Cuphead Decompilation
 - [SteavenGamerYT/ArchLinuxRepo](https://github.com/SteavenGamerYT/ArchLinuxRepo) - Best Linux repo for Omar Packages
-- [SteavenGamerYT/Steaven-NIX](https://github.com/SteavenGamerYT/Steaven-NIX) - NIX OS THO!
-- [SteavenGamerYT/WebSite2](https://github.com/SteavenGamerYT/WebSite2) - 
-- [SteavenGamerYT/Portal-2-source-code](https://github.com/SteavenGamerYT/Portal-2-source-code) - Decompilation of Portal 2, Remake of Portal 2, An atpemet of getting Portal 2 source code
-- [SteavenGamerYT/wma-converter](https://github.com/SteavenGamerYT/wma-converter) - A python script to convert wma into mp3
+- [SteavenGamerYT/GuildedCreator](https://github.com/SteavenGamerYT/GuildedCreator) - Email Verified Guilded Account Creator
+- [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 ### 🔨 My recent Pull Requests
 
-- [FIX OF THE APP](https://github.com/anhonor/GuildedCreator/pull/2) on [anhonor/GuildedCreator](https://github.com/anhonor/GuildedCreator)
-- [Test 2023 12](https://github.com/SteavenGamerYT/Website/pull/4) on [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website)
-- [Improve Runtime installer of Winutil](https://github.com/ChrisTitusTech/winutil/pull/1254) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+- [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
+- [i tried to convert most keybindings from kitty to this new terminal](https://github.com/ChrisTitusTech/dwm-titus/pull/36) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
+- [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
+- [Create nord.conf](https://github.com/ChrisTitusTech/dwm-titus/pull/33) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
+- [this how i start my linux rust toolbox that i created](https://github.com/ChrisTitusTech/linutil/pull/8) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
-- [iamtraction/ZOD](https://github.com/iamtraction/ZOD) - This is a decompression bomb (also known as zip of death or zip bomb) designed to crash or render useless the program or system reading it.
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
-- [mrglaster/Source-models-decompiler-cmd](https://github.com/mrglaster/Source-models-decompiler-cmd) - Crowbar-based command-line utility for Source game engine models decompilation
-- [ata4/bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [TheBobPony/bobpony.com](https://github.com/TheBobPony/bobpony.com) - The repo for
+- [fruityloops1/bf-multiplayer](https://github.com/fruityloops1/bf-multiplayer) - Bowser&#39;s Fury Online Multiplayer
+- [Lixkote/Startify](https://github.com/Lixkote/Startify) - Custom start menu for Windows 11 with some extras
+- [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - 
 ### 📰 Recent Blog Posts
 
-- [How to fix not enough ram error in some games](https://boisterous-toffee-60cc83.netlify.app/games/)
-- [How to Improve Battery Life on Linux](https://boisterous-toffee-60cc83.netlify.app/battery-life/)
-- [How to test gpu in linux](https://boisterous-toffee-60cc83.netlify.app/how-to-test-gpu-in-linux/)
-- [Ubuntu apt ads](https://boisterous-toffee-60cc83.netlify.app/ubuntu-apt-ads/)
-- [Wayland](https://boisterous-toffee-60cc83.netlify.app/wayland/)
+- [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
+- [How to Combine Audio Sources](https://boisterous-toffee-60cc83.netlify.app/how-to-combine-audio-sources/)
+- [How to Fix Cracking Audio on linux](https://boisterous-toffee-60cc83.netlify.app/how-to-fix-cracking-audio-on-linux/)
+- [How to Set Super key to Ulancher on gnome](https://boisterous-toffee-60cc83.netlify.app/how-to-set-super-key-to-ulancher-on-gnome/)
+- [Restarting KDE](https://boisterous-toffee-60cc83.netlify.app/restarting-kde/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
