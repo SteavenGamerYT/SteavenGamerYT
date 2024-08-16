@@ -24,11 +24,11 @@
 - [this how i start my linux rust toolbox that i created](https://github.com/ChrisTitusTech/linutil/pull/8) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [Aemony/Skip-ASM2Launcher](https://github.com/Aemony/Skip-ASM2Launcher) - Custom launcher to skip the bundled launcher in The Amazing Spider-Man 2 on PC.
+- [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [TheBobPony/bobpony.com](https://github.com/TheBobPony/bobpony.com) - The repo for
 - [fruityloops1/bf-multiplayer](https://github.com/fruityloops1/bf-multiplayer) - Bowser&#39;s Fury Online Multiplayer
-- [Lixkote/Startify](https://github.com/Lixkote/Startify) - Custom start menu for Windows 11 with some extras
-- [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - 
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
