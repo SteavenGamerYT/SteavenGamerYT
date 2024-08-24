@@ -24,11 +24,11 @@
 - [this how i start my linux rust toolbox that i created](https://github.com/ChrisTitusTech/linutil/pull/8) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [limo-app/limo](https://github.com/limo-app/limo) - A simple Qt based mod manager
+- [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
 - [xlenore/psx-covers](https://github.com/xlenore/psx-covers) - PSX/PS1 Covers Collection
 - [rpmfusion/discord](https://github.com/rpmfusion/discord) - discord - nonfree
 - [astrovm/hosty](https://github.com/astrovm/hosty) - System-wide ad blocker for Linux/Unix/BSD/Mac
-- [Linus789/wl-clip-persist](https://github.com/Linus789/wl-clip-persist) - Keep Wayland clipboard even after programs close
-- [Aemony/Skip-ASM2Launcher](https://github.com/Aemony/Skip-ASM2Launcher) - Custom launcher to skip the bundled launcher in The Amazing Spider-Man 2 on PC.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
