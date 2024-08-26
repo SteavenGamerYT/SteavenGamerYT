@@ -5,9 +5,9 @@
 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
-- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - 
+- [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
 - [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
-- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
+- [SteavenLinux/FedoraSettings](https://github.com/SteavenLinux/FedoraSettings) - This is the Settings that is related to fedora linux
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [this how i start my linux rust toolbox that i created](https://github.com/ChrisTitusTech/linutil/pull/8) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) - 
 - [limo-app/limo](https://github.com/limo-app/limo) - A simple Qt based mod manager
 - [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
-- [xlenore/psx-covers](https://github.com/xlenore/psx-covers) - PSX/PS1 Covers Collection
-- [rpmfusion/discord](https://github.com/rpmfusion/discord) - discord - nonfree
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
