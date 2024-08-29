@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 - [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
 - [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
-- [SteavenLinux/FedoraSettings](https://github.com/SteavenLinux/FedoraSettings) - This is the Settings that is related to fedora linux
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [Create nord.conf](https://github.com/ChrisTitusTech/dwm-titus/pull/33) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
+- [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
+- [jc141x/portal](https://github.com/jc141x/portal) - 
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) - 
-- [limo-app/limo](https://github.com/limo-app/limo) - A simple Qt based mod manager
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
