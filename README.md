@@ -3,8 +3,8 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - 
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 - [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
 - [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
