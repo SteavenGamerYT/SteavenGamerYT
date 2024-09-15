@@ -4,9 +4,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
-- [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
-- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
+- [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 ### 🌱 My latest projects
 
@@ -24,11 +24,11 @@
 - [Create nord.conf](https://github.com/ChrisTitusTech/dwm-titus/pull/33) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
+- [paroj/xpad](https://github.com/paroj/xpad) - Linux Kernel Driver for the Xbox/ Xbox 360/ Xbox One Controllers
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
