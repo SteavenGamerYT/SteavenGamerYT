@@ -3,9 +3,9 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 - [SteavenLinux/Laptop-PersonalSettings](https://github.com/SteavenLinux/Laptop-PersonalSettings) - This is my laptop only settings
 ### 🌱 My latest projects
@@ -24,11 +24,11 @@
 - [Create nord.conf](https://github.com/ChrisTitusTech/dwm-titus/pull/33) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
+- [polluxau/the-finals-linux-troubleshoot-guide](https://github.com/polluxau/the-finals-linux-troubleshoot-guide) - a guide for troubleshooting the finals on linux
 - [paroj/xpad](https://github.com/paroj/xpad) - Linux Kernel Driver for the Xbox/ Xbox 360/ Xbox One Controllers
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
