@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenToolBox/Linux](https://github.com/SteavenToolBox/Linux) - A Free Open Source Toolbox For Debian and Ubuntu and Fedora and Arch!
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenToolBox/Linux](https://github.com/SteavenToolBox/Linux) - A Free Open Source Toolbox For Debian and Ubuntu and Fedora and Arch!
 - [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 - [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
-- [polluxau/the-finals-linux-troubleshoot-guide](https://github.com/polluxau/the-finals-linux-troubleshoot-guide) - A Guide for Troubleshooting THE FINALS on Linux
-- [paroj/xpad](https://github.com/paroj/xpad) - Linux Kernel Driver for the Xbox/ Xbox 360/ Xbox One Controllers
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
+- [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you&#39;ll find something useful
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [isledecomp/LEGOIslandRebuilder](https://github.com/isledecomp/LEGOIslandRebuilder) - A launcher and mod/patch tool for the 1997 video game LEGO Island.
+- [isledecomp/isle](https://github.com/isledecomp/isle) - A work-in-progress decompilation of LEGO Island (1997)
+- [itsmattkc/LEGO1Disassemble](https://github.com/itsmattkc/LEGO1Disassemble) - A machine automated compilable disassembly of LEGO1.DLL from LEGO Island
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
