@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
+- [probonopd/wayland-x11-compat-protocols](https://github.com/probonopd/wayland-x11-compat-protocols) - The missing Wayland protocols for features that are available in X11 (but are denied by the official Wayland protocols)
+- [radiolamp/mangojuice](https://github.com/radiolamp/mangojuice) - 
 - [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you&#39;ll find something useful
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [isledecomp/LEGOIslandRebuilder](https://github.com/isledecomp/LEGOIslandRebuilder) - A launcher and mod/patch tool for the 1997 video game LEGO Island.
-- [isledecomp/isle](https://github.com/isledecomp/isle) - A work-in-progress decompilation of LEGO Island (1997)
-- [itsmattkc/LEGO1Disassemble](https://github.com/itsmattkc/LEGO1Disassemble) - A machine automated compilable disassembly of LEGO1.DLL from LEGO Island
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
