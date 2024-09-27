@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
+- [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Linux](https://github.com/SteavenToolBox/Linux) - A Free Open Source Toolbox For Debian and Ubuntu and Fedora and Arch!
-- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
-- [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
+- [gianklug/wearewaylandnow](https://github.com/gianklug/wearewaylandnow) - Sources for https://wearewaylandnow.com
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
+- [torrinfail/dwmblocks](https://github.com/torrinfail/dwmblocks) - Modular status bar for dwm written in c.
+- [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
 - [probonopd/wayland-x11-compat-protocols](https://github.com/probonopd/wayland-x11-compat-protocols) - The missing Wayland protocols for features that are available in X11 (but are denied by the official Wayland protocols)
-- [radiolamp/mangojuice](https://github.com/radiolamp/mangojuice) - 
-- [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you&#39;ll find something useful
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [isledecomp/LEGOIslandRebuilder](https://github.com/isledecomp/LEGOIslandRebuilder) - A launcher and mod/patch tool for the 1997 video game LEGO Island.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
