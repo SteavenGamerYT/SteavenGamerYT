@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
+- [nautilor/nord-sddm](https://github.com/nautilor/nord-sddm) - Nord theme for SDDM
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [PapirusDevelopmentTeam/papirus_icons](https://github.com/PapirusDevelopmentTeam/papirus_icons) - Papirus Icon Pack for Android
 - [loissascha/MangOverlay](https://github.com/loissascha/MangOverlay) - mangohud configuration tool
 - [gianklug/wearewaylandnow](https://github.com/gianklug/wearewaylandnow) - Sources for https://wearewaylandnow.com
-- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
