@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
+- [vanilla-wiiu/rtl8720dn](https://github.com/vanilla-wiiu/rtl8720dn) - Patches for the RTL8720DN firmware to allow connecting to the Wii U as a gamepad
+- [vanilla-wiiu/vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 - [pythonlover02/Proton-Sarek](https://github.com/pythonlover02/Proton-Sarek) - Compatibility tool for Steam Play based on Wine and additional components 
 - [ryzendew/Ryujinx](https://github.com/ryzendew/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Ryujinx-NX/Ryujinx](https://github.com/Ryujinx-NX/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-- [Etaash-mathamsetty/wine-builds](https://github.com/Etaash-mathamsetty/wine-builds) - 
-- [nautilor/nord-sddm](https://github.com/nautilor/nord-sddm) - Nord theme for SDDM
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
