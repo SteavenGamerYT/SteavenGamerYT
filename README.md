@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [OMGDiscord/Bot](https://github.com/OMGDiscord/Bot) - Bot
-- [OMGDiscord/Bot-remake](https://github.com/OMGDiscord/Bot-remake) - Remake of Bot that was in nodejs to java made by ico 278
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [Merge pull request #1 from PowerPCFan/main](https://github.com/PowerPCFan/SteavenToolBoxFork/pull/1) on [PowerPCFan/SteavenToolBoxFork](https://github.com/PowerPCFan/SteavenToolBoxFork)
 ### ⭐ Recent Stars
 
+- [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
+- [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [vanilla-wiiu/rtl8720dn](https://github.com/vanilla-wiiu/rtl8720dn) - Patches for the RTL8720DN firmware to allow connecting to the Wii U as a gamepad
 - [vanilla-wiiu/vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 - [pythonlover02/Proton-Sarek](https://github.com/pythonlover02/Proton-Sarek) - Compatibility tool for Steam Play based on Wine and additional components 
-- [ryzendew/Ryujinx](https://github.com/ryzendew/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-- [Ryujinx-NX/Ryujinx](https://github.com/Ryujinx-NX/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
