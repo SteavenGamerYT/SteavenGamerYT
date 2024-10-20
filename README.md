@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
-- [SteavenLinux/SteavenSettingsExtra](https://github.com/SteavenLinux/SteavenSettingsExtra) - Extra Settings used by SteavenSettings
-- [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
+- [SteavenLinux/SteavenSddm](https://github.com/SteavenLinux/SteavenSddm) - SteavenSddm
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
+- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/SteavenSettingsExtra](https://github.com/SteavenLinux/SteavenSettingsExtra) - Extra Settings used by SteavenSettings
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
+- [Cai1Hsu/re3](https://github.com/Cai1Hsu/re3) - Fuck you, Take Two
 - [daniele-athome/game-center-tools](https://github.com/daniele-athome/game-center-tools) - A set of scripts and services designed to be run on a Linux gaming system
 - [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot and Recall in Windows
-- [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
-- [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
