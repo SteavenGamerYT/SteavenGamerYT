@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [Weather-OS/WineCoreUAP](https://github.com/Weather-OS/WineCoreUAP) - OneCoreUAP And Windows Runtime Libraries reverse engineered to work with Wine
+- [Heroic-Games-Launcher/known-fixes](https://github.com/Heroic-Games-Launcher/known-fixes) - 
+- [Heroic-Games-Launcher/legendary](https://github.com/Heroic-Games-Launcher/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
