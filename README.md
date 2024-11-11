@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [NVIDIA/egl-x11](https://github.com/NVIDIA/egl-x11) - The X11/XCB external platform library
 - [Weather-OS/WineCoreUAP](https://github.com/Weather-OS/WineCoreUAP) - OneCoreUAP And Windows Runtime Libraries reverse engineered to work with Wine
 - [Heroic-Games-Launcher/known-fixes](https://github.com/Heroic-Games-Launcher/known-fixes) - 
 - [Heroic-Games-Launcher/legendary](https://github.com/Heroic-Games-Launcher/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
-- [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
