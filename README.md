@@ -3,9 +3,9 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 ### 🌱 My latest projects
@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - &#34;I use Arch btw&#34; but it&#39;s a Turing-complete programming language.
 - [NVIDIA/egl-x11](https://github.com/NVIDIA/egl-x11) - The X11/XCB external platform library
 - [Weather-OS/WineCoreUAP](https://github.com/Weather-OS/WineCoreUAP) - OneCoreUAP And Windows Runtime Libraries reverse engineered to work with Wine
 - [Heroic-Games-Launcher/known-fixes](https://github.com/Heroic-Games-Launcher/known-fixes) - 
-- [Heroic-Games-Launcher/legendary](https://github.com/Heroic-Games-Launcher/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
