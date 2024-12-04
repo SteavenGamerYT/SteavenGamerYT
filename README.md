@@ -3,10 +3,10 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenLinux-gnome-settings](https://github.com/SteavenLinux/SteavenLinux-gnome-settings) - SteavenLinux-gnome-settings
 ### 🌱 My latest projects
 
@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [denilsonsa/udev-joystick-blacklist](https://github.com/denilsonsa/udev-joystick-blacklist) - Fix for keyboard/mouse/tablet being detected as joystick in Linux
+- [fabiscafe/game-devices-udev](https://github.com/fabiscafe/game-devices-udev) - **Mirror** of game-device-udev git at https://codeberg.org/fabiscafe/game-devices-udev
 - [crosire/d3d8to9](https://github.com/crosire/d3d8to9) - A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
 - [adlerweb/davinci-resolve-studio-beta](https://github.com/adlerweb/davinci-resolve-studio-beta) - see https://aur.archlinux.org/cgit/aur.git/?h=davinci-resolve-studio-beta
 - [pythonlover02/umu-protonfixes-mods](https://github.com/pythonlover02/umu-protonfixes-mods) - 
-- [pythonlover02/DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek) - Vulkan-based implementation of D3D9, 10 and 11 for Linux, without needing Vulkan 1.3
-- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
