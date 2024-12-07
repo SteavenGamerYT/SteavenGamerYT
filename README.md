@@ -3,11 +3,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
-- [SteavenLinux/ISO](https://github.com/SteavenLinux/ISO) - ISO
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
+- [SteavenLinux/ISO](https://github.com/SteavenLinux/ISO) - ISO
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [Ashark/archlinux-amdgpu-pro](https://github.com/Ashark/archlinux-amdgpu-pro) - Radeon Software for Linux (AMDGPU PRO) PKGBUILD generator for ArchLinux AUR
+- [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 A Hugo theme named Dream.
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [denilsonsa/udev-joystick-blacklist](https://github.com/denilsonsa/udev-joystick-blacklist) - Fix for keyboard/mouse/tablet being detected as joystick in Linux
 - [fabiscafe/game-devices-udev](https://github.com/fabiscafe/game-devices-udev) - **Mirror** of game-device-udev git at https://codeberg.org/fabiscafe/game-devices-udev
-- [crosire/d3d8to9](https://github.com/crosire/d3d8to9) - A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
-- [adlerweb/davinci-resolve-studio-beta](https://github.com/adlerweb/davinci-resolve-studio-beta) - see https://aur.archlinux.org/cgit/aur.git/?h=davinci-resolve-studio-beta
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
