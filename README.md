@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [Novattz/creamlinux-installer](https://github.com/Novattz/creamlinux-installer) - DLC Fetcher and installer for linux
+- [anticitizn/creamlinux](https://github.com/anticitizn/creamlinux) - CreamAPI-like DLC unlocker for Linux
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Ashark/archlinux-amdgpu-pro](https://github.com/Ashark/archlinux-amdgpu-pro) - Radeon Software for Linux (AMDGPU PRO) PKGBUILD generator for ArchLinux AUR
-- [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 A Hugo theme named Dream.
-- [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
-- [denilsonsa/udev-joystick-blacklist](https://github.com/denilsonsa/udev-joystick-blacklist) - Fix for keyboard/mouse/tablet being detected as joystick in Linux
-- [fabiscafe/game-devices-udev](https://github.com/fabiscafe/game-devices-udev) - **Mirror** of game-device-udev git at https://codeberg.org/fabiscafe/game-devices-udev
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
