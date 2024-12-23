@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms) - A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [frankcrawford/it87](https://github.com/frankcrawford/it87) - 
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [GPUOpen-LibrariesAndSDKs/AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
-- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
