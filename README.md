@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [EasyNetDev/ntfs3-dkms](https://github.com/EasyNetDev/ntfs3-dkms) - NTFS (NTFS3) Read-Write file system support as DKMS module
+- [wydy/Debian-ntfs3](https://github.com/wydy/Debian-ntfs3) - NTFS3 dkms module for Debian12
 - [maquinas07/yttwthmode](https://github.com/maquinas07/yttwthmode) - Twitch-like theater mode for Youtube livestreams and archives.
 - [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum) - 
-- [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak
-- [pearagit/pearasys](https://github.com/pearagit/pearasys) - 
-- [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms) - A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
