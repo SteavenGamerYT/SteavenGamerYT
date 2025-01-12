@@ -24,11 +24,11 @@
 - [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [geerlingguy/jeffgeerling-com](https://github.com/geerlingguy/jeffgeerling-com) - Drupal Codebase for JeffGeerling.com
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [EasyNetDev/ntfs3-dkms](https://github.com/EasyNetDev/ntfs3-dkms) - NTFS (NTFS3) Read-Write file system support as DKMS module
 - [wydy/Debian-ntfs3](https://github.com/wydy/Debian-ntfs3) - NTFS3 dkms module for Debian12
-- [maquinas07/yttwthmode](https://github.com/maquinas07/yttwthmode) - Twitch-like theater mode for Youtube livestreams and archives.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
