@@ -5,8 +5,8 @@
 
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
 - [SteavenLinux/SteavenDebian](https://github.com/SteavenLinux/SteavenDebian) - SteavenDebian
 ### 🌱 My latest projects
 
@@ -17,18 +17,18 @@
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 ### 🔨 My recent Pull Requests
 
+- [update](https://github.com/flathub/org.freedownloadmanager.Manager/pull/24) on [flathub/org.freedownloadmanager.Manager](https://github.com/flathub/org.freedownloadmanager.Manager)
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/7) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 - [550.107.02 --&gt; 550.120](https://github.com/Frogging-Family/nvidia-all/pull/263) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [pkg for fedora fixs](https://github.com/flightlessmango/MangoHud/pull/1410) on [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)
-- [550.100 to 550.107.02](https://github.com/Frogging-Family/nvidia-all/pull/254) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [linuxmint/slick-greeter](https://github.com/linuxmint/slick-greeter) - A slick-looking LightDM greeter
 - [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
-- [geerlingguy/jeffgeerling-com](https://github.com/geerlingguy/jeffgeerling-com) - Drupal Codebase for JeffGeerling.com
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
