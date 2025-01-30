@@ -3,9 +3,9 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
 - [SteavenLinux/SteavenDebian](https://github.com/SteavenLinux/SteavenDebian) - SteavenDebian
 ### 🌱 My latest projects
@@ -24,11 +24,11 @@
 - [pkg for fedora fixs](https://github.com/flightlessmango/MangoHud/pull/1410) on [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)
 ### ⭐ Recent Stars
 
+- [Nico-Shock/Arch-Linux-Helper-Script](https://github.com/Nico-Shock/Arch-Linux-Helper-Script) - 
 - [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [linuxmint/slick-greeter](https://github.com/linuxmint/slick-greeter) - A slick-looking LightDM greeter
-- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
