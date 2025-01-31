@@ -4,10 +4,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) - 
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
-- [SteavenLinux/SteavenDebian](https://github.com/SteavenLinux/SteavenDebian) - SteavenDebian
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -17,11 +17,11 @@
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 ### 🔨 My recent Pull Requests
 
+- [570.86.16](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia/pull/336) on [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia)
+- [570.86.16](https://github.com/Frogging-Family/nvidia-all/pull/282) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [update](https://github.com/flathub/org.freedownloadmanager.Manager/pull/24) on [flathub/org.freedownloadmanager.Manager](https://github.com/flathub/org.freedownloadmanager.Manager)
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/7) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
-- [550.107.02 --&gt; 550.120](https://github.com/Frogging-Family/nvidia-all/pull/263) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
-- [pkg for fedora fixs](https://github.com/flightlessmango/MangoHud/pull/1410) on [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)
 ### ⭐ Recent Stars
 
 - [Nico-Shock/Arch-Linux-Helper-Script](https://github.com/Nico-Shock/Arch-Linux-Helper-Script) - 
