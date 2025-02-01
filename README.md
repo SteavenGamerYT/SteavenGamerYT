@@ -3,10 +3,10 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) - 
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia) - 
 - [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
 ### 🌱 My latest projects
 
@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [GpuZelenograd/memtest_vulkan](https://github.com/GpuZelenograd/memtest_vulkan) - Vulkan compute tool for testing video memory stability
 - [Nico-Shock/Arch-Linux-Helper-Script](https://github.com/Nico-Shock/Arch-Linux-Helper-Script) - 
 - [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
-- [linuxmint/slick-greeter](https://github.com/linuxmint/slick-greeter) - A slick-looking LightDM greeter
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
