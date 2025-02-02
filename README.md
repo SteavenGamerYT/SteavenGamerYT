@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
+- [FeralInteractive/ferallinuxscripts](https://github.com/FeralInteractive/ferallinuxscripts) - General use repository for scripts used by Feral Interactive Linux games
 - [GpuZelenograd/memtest_vulkan](https://github.com/GpuZelenograd/memtest_vulkan) - Vulkan compute tool for testing video memory stability
 - [Nico-Shock/Arch-Linux-Helper-Script](https://github.com/Nico-Shock/Arch-Linux-Helper-Script) - 
 - [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
-- [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
-- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
