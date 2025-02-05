@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [EliverLara/Nordic-Polar](https://github.com/EliverLara/Nordic-Polar) - 
+- [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20&#43; theme created using the awesome Nord color pallete.
+- [EliverLara/Nordic-kde](https://github.com/EliverLara/Nordic-kde) - Dark theme for plasma created using the awesome Nord color palette
+- [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme) - :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.
 - [Razor12911/bms2xtool](https://github.com/Razor12911/bms2xtool) - 
-- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
-- [FeralInteractive/ferallinuxscripts](https://github.com/FeralInteractive/ferallinuxscripts) - General use repository for scripts used by Feral Interactive Linux games
-- [GpuZelenograd/memtest_vulkan](https://github.com/GpuZelenograd/memtest_vulkan) - Vulkan compute tool for testing video memory stability
-- [Nico-Shock/Arch-Linux-Helper-Script](https://github.com/Nico-Shock/Arch-Linux-Helper-Script) - 
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
