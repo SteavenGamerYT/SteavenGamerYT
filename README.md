@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
 - [CluelessCatBurger/wl_shimeji](https://github.com/CluelessCatBurger/wl_shimeji) - Shimeji reimplementation for Wayland in C
 - [KDE/breeze-icons](https://github.com/KDE/breeze-icons) - Breeze icon theme.
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-- [EliverLara/candy-icons](https://github.com/EliverLara/candy-icons) - :lollipop: Sweet gradient icons
-- [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
