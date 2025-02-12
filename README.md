@@ -4,8 +4,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/SteavenAsus](https://github.com/SteavenLinux/SteavenAsus) - SteavenAsus: Optimized Configurations for Asus Laptops on Linux
 ### 🌱 My latest projects
@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [netkv/bffm](https://github.com/netkv/bffm) - Bash file manager using BufferMaker framework
 - [vinceliuice/Layan-kde](https://github.com/vinceliuice/Layan-kde) - Layan kde theme
 - [vinceliuice/Fluent-kde](https://github.com/vinceliuice/Fluent-kde) - Fluent design theme for kde plasma
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
-- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
