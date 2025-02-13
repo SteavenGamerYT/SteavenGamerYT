@@ -24,11 +24,11 @@
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [sushi-ae/nixdots](https://github.com/sushi-ae/nixdots) - 😭😭😭😭
+- [killertofus/awesome](https://github.com/killertofus/awesome) - dots
+- [valinet/NewOutlookPatcher](https://github.com/valinet/NewOutlookPatcher) - Disable ads and product placement in new Outlook for Windows app
 - [netkv/bffm](https://github.com/netkv/bffm) - Bash file manager using BufferMaker framework
 - [vinceliuice/Layan-kde](https://github.com/vinceliuice/Layan-kde) - Layan kde theme
-- [vinceliuice/Fluent-kde](https://github.com/vinceliuice/Fluent-kde) - Fluent design theme for kde plasma
-- [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
-- [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
