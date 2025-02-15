@@ -17,18 +17,18 @@
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 ### 🔨 My recent Pull Requests
 
+- [remove nixos from readme](https://github.com/outfoxxed/hy3/pull/184) on [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
 - [570.86.16](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia/pull/336) on [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia)
 - [570.86.16](https://github.com/Frogging-Family/nvidia-all/pull/282) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [update](https://github.com/flathub/org.freedownloadmanager.Manager/pull/24) on [flathub/org.freedownloadmanager.Manager](https://github.com/flathub/org.freedownloadmanager.Manager)
 - [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/7) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
-- [PLEASE USE Darwin](https://github.com/Chaosminecraft/Text-converter/pull/6) on [Chaosminecraft/Text-converter](https://github.com/Chaosminecraft/Text-converter)
 ### ⭐ Recent Stars
 
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for &#34;too much bleeding-edge&#34; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 - [sushi-ae/nixdots](https://github.com/sushi-ae/nixdots) - 😭😭😭😭
 - [killertofus/awesome](https://github.com/killertofus/awesome) - dots
-- [valinet/NewOutlookPatcher](https://github.com/valinet/NewOutlookPatcher) - Disable ads and product placement in new Outlook for Windows app
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
