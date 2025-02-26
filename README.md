@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
+- [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
+- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
