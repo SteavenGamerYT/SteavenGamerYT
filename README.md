@@ -8,9 +8,9 @@
 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenFlatpak](https://github.com/SteavenLinux/SteavenFlatpak) - 
+- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/SteavenRepo](https://github.com/SteavenLinux/SteavenRepo) - SteavenRepo
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -27,11 +27,11 @@
 - [570.86.16](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia/pull/336) on [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia)
 ### ⭐ Recent Stars
 
+- [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [jarun/spy](https://github.com/jarun/spy) - :eyes: Linux kernel mode debugfs keylogger
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE
 - [dandykong/nopssdk](https://github.com/dandykong/nopssdk) - A tiny library that fully strips the PlayStation PC SDK runtime requirement for God of War Ragnarok.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [drakon64/nixos-cachyos-kernel](https://github.com/drakon64/nixos-cachyos-kernel) - CachyOS LTS kernel for NixOS
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
