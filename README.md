@@ -27,11 +27,11 @@
 - [570.86.16](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia/pull/336) on [flathub/org.freedesktop.Platform.GL.nvidia](https://github.com/flathub/org.freedesktop.Platform.GL.nvidia)
 ### ⭐ Recent Stars
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [jarun/spy](https://github.com/jarun/spy) - :eyes: Linux kernel mode debugfs keylogger
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE
 - [dandykong/nopssdk](https://github.com/dandykong/nopssdk) - A tiny library that fully strips the PlayStation PC SDK runtime requirement for God of War Ragnarok.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
