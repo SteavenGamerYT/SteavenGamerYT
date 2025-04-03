@@ -8,8 +8,8 @@
 
 - [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/Linver](https://github.com/SteavenLinux/Linver) - Linver
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenGamerYT/Wallpapers](https://github.com/SteavenGamerYT/Wallpapers) -   I have collected these wallpapers over a number of years. This is my entire wallpaper directory for those that want/need them.
 ### 🌱 My latest projects
 
