@@ -6,10 +6,10 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/Linver](https://github.com/SteavenLinux/Linver) - Linver
+- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
+- [SteavenLinux/Linver](https://github.com/SteavenLinux/Linver) - Linver
 - [SteavenGamerYT/Wallpapers](https://github.com/SteavenGamerYT/Wallpapers) -   I have collected these wallpapers over a number of years. This is my entire wallpaper directory for those that want/need them.
 ### 🌱 My latest projects
 
@@ -27,11 +27,11 @@
 - [remove nixos from readme](https://github.com/outfoxxed/hy3/pull/184) on [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
 ### ⭐ Recent Stars
 
+- [oberrich/win11-toggle-rounded-corners](https://github.com/oberrich/win11-toggle-rounded-corners) - A simple utility to disable rounded window corners on Windows 11
+- [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
 - [EdvinNilsson/ffmpeg_encoder_plugin](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin) - FFmpeg Encoder Plugin for DaVinci Resolve Studio
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer&#43;&#43; is a lightweight and fast file manager for Windows
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo&#39;s official servers
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
