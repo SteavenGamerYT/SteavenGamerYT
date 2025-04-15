@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [OMGDiscord/GameSir-Coins-Farm](https://github.com/OMGDiscord/GameSir-Coins-Farm) - GameSir-Coins-Farm
 - [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
+- [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
+- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
+- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
