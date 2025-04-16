@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 - [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
 - [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
-- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -29,7 +29,7 @@
 
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [arelate/vangogh](https://github.com/arelate/vangogh) - 🌻 Local and offline GOG.com games library
-- [oberrich/win11-toggle-rounded-corners](https://github.com/oberrich/win11-toggle-rounded-corners) - A simple utility to disable rounded window corners on Windows 11
+- [rich-ayr/win11-toggle-rounded-corners](https://github.com/rich-ayr/win11-toggle-rounded-corners) - A simple utility to disable rounded window corners on Windows 11
 - [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
 - [EdvinNilsson/ffmpeg_encoder_plugin](https://github.com/EdvinNilsson/ffmpeg_encoder_plugin) - FFmpeg Encoder Plugin for DaVinci Resolve Studio
 ### 📰 Recent Blog Posts
