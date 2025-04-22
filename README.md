@@ -20,11 +20,11 @@
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 ### 🔨 My recent Pull Requests
 
+- [Add support for 6.9 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/43) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 - [NVIDIA-Linux-x86_64-570.133.07.run](https://github.com/Frogging-Family/nvidia-all/pull/286) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [Add support for 5.15-24.08 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/40) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
-- [remove nixos from readme](https://github.com/outfoxxed/hy3/pull/184) on [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
 ### ⭐ Recent Stars
 
 - [ThioJoe/Thio-WinUtils-Library](https://github.com/ThioJoe/Thio-WinUtils-Library) - Reusable classes in C# windows apps
