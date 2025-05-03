@@ -7,10 +7,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [dileep-kishore/nixos-hyprland](https://github.com/dileep-kishore/nixos-hyprland) - My NixOS hyprland setup
 - [ThioJoe/Thio-WinUtils-Library](https://github.com/ThioJoe/Thio-WinUtils-Library) - Reusable classes in C# windows apps
 - [ThioJoe/Resources-From-Videos](https://github.com/ThioJoe/Resources-From-Videos) - Stuff I&#39;ve shown or mentioned in videos, from scripts to random code snippets
 - [nowrep/dvcp-vaapi](https://github.com/nowrep/dvcp-vaapi) - DaVinci Resolve VAAPI encoder plugin
-- [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
