@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [KelvinShadewing/supertux-advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
+- [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code
+- [Vankata453/ZoneInternetGamesServer](https://github.com/Vankata453/ZoneInternetGamesServer) - Aiming to bring back the functionality of the Internet Games, included in Windows 7.
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
-- [dileep-kishore/nixos-hyprland](https://github.com/dileep-kishore/nixos-hyprland) - My NixOS hyprland setup
-- [ThioJoe/Thio-WinUtils-Library](https://github.com/ThioJoe/Thio-WinUtils-Library) - Reusable classes in C# windows apps
-- [ThioJoe/Resources-From-Videos](https://github.com/ThioJoe/Resources-From-Videos) - Stuff I&#39;ve shown or mentioned in videos, from scripts to random code snippets
-- [nowrep/dvcp-vaapi](https://github.com/nowrep/dvcp-vaapi) - DaVinci Resolve VAAPI encoder plugin
+- [dileep-kishore/nixos-config](https://github.com/dileep-kishore/nixos-config) - My NixOS niri/hyprland setup
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
