@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [ryzendew/Matts-Hyprland](https://github.com/ryzendew/Matts-Hyprland) - Gnome styled Hyprland meant to be more DE like 
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [KelvinShadewing/supertux-advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code
-- [Vankata453/ZoneInternetGamesServer](https://github.com/Vankata453/ZoneInternetGamesServer) - Aiming to bring back the functionality of the Internet Games, included in Windows 7.
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
