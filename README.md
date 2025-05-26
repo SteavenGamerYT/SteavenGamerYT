@@ -8,9 +8,9 @@
 
 - [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
-- [OMGDiscord/.github](https://github.com/OMGDiscord/.github) - 
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [OMGDiscord/OMG-Everything](https://github.com/OMGDiscord/OMG-Everything) - SteavenGamerYT Community Discord server main bot
+- [OMGDiscord/.github](https://github.com/OMGDiscord/.github) - 
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
-- [NightSightProductions/Portal-RTX-AMD-mod](https://github.com/NightSightProductions/Portal-RTX-AMD-mod) - A mod aiming to optimize Portal RTX for AMD hardware
-- [ryzendew/Matts-Hyprland](https://github.com/ryzendew/Matts-Hyprland) - Gnome styled Hyprland meant to be more DE like 
-- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
-- [KelvinShadewing/supertux-advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
+- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista &amp; 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
+- [PowerPCFan/Intel-Arc-GPU-Drivers](https://github.com/PowerPCFan/Intel-Arc-GPU-Drivers) - Driver downloads for Intel Arc GPUs
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+- [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
+- [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
