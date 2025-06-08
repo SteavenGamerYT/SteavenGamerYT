@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [darkomarko42/Marwaita-red](https://github.com/darkomarko42/Marwaita-red) - Marwaita GTK theme style with pepermint os
 - [niku200/ds4to360xboxdrv](https://github.com/niku200/ds4to360xboxdrv) - DualShock 4 to Xbox 360 Controller Mapper for Linux
 - [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox) - r3dfox is a modern Firefox based web browser for Windows Vista &amp; 7. SourceForge link for downloading with older browsers. https://sourceforge.net/projects/r3dfox/
 - [PowerPCFan/Intel-Arc-GPU-Drivers](https://github.com/PowerPCFan/Intel-Arc-GPU-Drivers) - Driver downloads for Intel Arc GPUs
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [AmrEldib/WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
