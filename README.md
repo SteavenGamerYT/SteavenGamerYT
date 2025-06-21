@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2&#43;/XeSS/FSR2&#43; inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [FlyGoat/CSMWrap](https://github.com/FlyGoat/CSMWrap) - Get PC BIOS back on UEFI only system
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [Pr0cella/rEFInd-glassy](https://github.com/Pr0cella/rEFInd-glassy) - A minimalistic rEFInd theme
 - [darkomarko42/Marwaita-red](https://github.com/darkomarko42/Marwaita-red) - Marwaita GTK theme style with pepermint os
-- [niku200/ds4to360xboxdrv](https://github.com/niku200/ds4to360xboxdrv) - DualShock 4 to Xbox 360 Controller Mapper for Linux
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
