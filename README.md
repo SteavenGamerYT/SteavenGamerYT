@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [adonais/iceweasel](https://github.com/adonais/iceweasel) - Official repositories at https://hg.mozilla.org.
 - [pizi-0/flutter-scrcpygui](https://github.com/pizi-0/flutter-scrcpygui) - A user-friendly GUI for scrcpy with added functionalities
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Quackdoc/waydroid-scripts](https://github.com/Quackdoc/waydroid-scripts) - Scripts to modify waydroid
 - [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
-- [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
