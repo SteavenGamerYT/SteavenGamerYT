@@ -27,11 +27,11 @@
 - [Add support for 6.8 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/39) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
+- [yuvia08/rinfox_updated](https://github.com/yuvia08/rinfox_updated) - A Internet Explorer 7&amp;8 theme for Firefox, a continuation of rinfox, made by travis with some extras
 - [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 - [dartraiden/NVIDIA-patcher](https://github.com/dartraiden/NVIDIA-patcher) - Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, and L40 ES.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [adonais/iceweasel](https://github.com/adonais/iceweasel) - Official repositories at https://hg.mozilla.org.
-- [pizi-0/flutter-scrcpygui](https://github.com/pizi-0/flutter-scrcpygui) - A user-friendly GUI for scrcpy with added functionalities
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
