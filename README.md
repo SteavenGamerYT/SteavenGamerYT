@@ -27,11 +27,11 @@
 - [Add support for 5.15-24.08 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/40) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - The Honkers Railway launcher for Linux with automatic patching and telemetry disabling
 - [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) - A native hardware-accelerated Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
-- [yuvia08/rinfox_updated](https://github.com/yuvia08/rinfox_updated) - A Internet Explorer 7&amp;8 theme for Firefox, a continuation of rinfox, made by travis with some extras
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
