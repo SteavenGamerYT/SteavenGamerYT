@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/dot-files](https://github.com/SteavenGamerYT/dot-files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 - [SteavenGamerYT/SteavenVentoy](https://github.com/SteavenGamerYT/SteavenVentoy) - SteavenVentoy
 - [SteavenGamerYT/SteavenRefind](https://github.com/SteavenGamerYT/SteavenRefind) - Refind Theme made by Omar Hany Kasban
-- [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
-- [SteavenLinux/SteavenFetch](https://github.com/SteavenLinux/SteavenFetch) - SteavenFetch
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/SteavenRefind](https://github.com/SteavenGamerYT/SteavenRefind) - Refind Theme made by Omar Hany Kasban
@@ -27,11 +27,11 @@
 - [Add support for 5.15-24.08 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/40) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [Nicknamely/hyprland-kickstarter](https://github.com/Nicknamely/hyprland-kickstarter) - 
 - [blogdron/opemu-linux](https://github.com/blogdron/opemu-linux) - Linux kernel module for emulating SSE instructions
-- [an-anime-team/the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) - The Honkers Railway launcher for Linux with automatic patching and telemetry disabling
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
