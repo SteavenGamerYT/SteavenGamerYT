@@ -6,8 +6,8 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/SteavenNIX](https://github.com/SteavenGamerYT/SteavenNIX) - NIX OS THO!
 - [SteavenGamerYT/SteavenVentoy](https://github.com/SteavenGamerYT/SteavenVentoy) - SteavenVentoy
 - [SteavenGamerYT/SteavenRefind](https://github.com/SteavenGamerYT/SteavenRefind) - Refind Theme made by Omar Hany Kasban
@@ -20,11 +20,11 @@
 - [SteavenGamerYT/ArchLinuxRepo](https://github.com/SteavenGamerYT/ArchLinuxRepo) - Best Linux repo for Omar Packages
 ### 🔨 My recent Pull Requests
 
+- [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 - [Add support for 6.9 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/43) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 - [NVIDIA-Linux-x86_64-570.133.07.run](https://github.com/Frogging-Family/nvidia-all/pull/286) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
-- [Add support for 5.15-24.08 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/40) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 ### ⭐ Recent Stars
 
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
