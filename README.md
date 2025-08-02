@@ -27,11 +27,11 @@
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [ryzendew/Switch-Mods](https://github.com/ryzendew/Switch-Mods) - Mods for the Switch and Emulators
+- [ryzendew/Matts-Nixos-Hyprland-de](https://github.com/ryzendew/Matts-Nixos-Hyprland-de) - out of the box hyprland-de
+- [ryzendew/HyprlandDE-Quickshell](https://github.com/ryzendew/HyprlandDE-Quickshell) - quickshell hyprland dotfiles
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
-- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [Nicknamely/hyprland-kickstarter](https://github.com/Nicknamely/hyprland-kickstarter) - 
-- [blogdron/opemu-linux](https://github.com/blogdron/opemu-linux) - Linux kernel module for emulating SSE instructions
 ### 📰 Recent Blog Posts
 
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
