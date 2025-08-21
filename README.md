@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 - [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
-- [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/SteavenRefind](https://github.com/SteavenGamerYT/SteavenRefind) - Refind Theme made by Omar Hany Kasban
@@ -34,11 +34,11 @@
 - [AliEmreSenel/zenpower3](https://github.com/AliEmreSenel/zenpower3) - Zenpower3 is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs, now with Zen 3 support!
 ### 📰 Recent Blog Posts
 
+- [How to install Waydroid and fix bugs](https://boisterous-toffee-60cc83.netlify.app/how-to-install-waydroid-and-fix-bugs/)
 - [The Importance of Setting Shader Cache Paths for Non-Steam Games](https://boisterous-toffee-60cc83.netlify.app/shader-cache/)
 - [How to Combine Audio Sources](https://boisterous-toffee-60cc83.netlify.app/how-to-combine-audio-sources/)
 - [How to Fix Cracking Audio on linux](https://boisterous-toffee-60cc83.netlify.app/how-to-fix-cracking-audio-on-linux/)
 - [How to Set Super key to Ulancher on gnome](https://boisterous-toffee-60cc83.netlify.app/how-to-set-super-key-to-ulancher-on-gnome/)
-- [Restarting KDE](https://boisterous-toffee-60cc83.netlify.app/restarting-kde/)
 ### 📫 How to reach me:
   - Website   : <https://boisterous-toffee-60cc83.netlify.app>
   - Discord   : <https://discord.gg/x3VgsCtrDk>
