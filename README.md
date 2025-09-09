@@ -27,11 +27,11 @@
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [N3xoX1/2048](https://github.com/N3xoX1/2048) - 2048 port for Switch Homebrew.
+- [N3xoX1/nxemu](https://github.com/N3xoX1/nxemu) - 
 - [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor
 - [some-natalie/fedora-acs-override](https://github.com/some-natalie/fedora-acs-override) - Using the ACS override patch for Fedora to split identical hardware in the kernel
-- [benbaker76/linux-acs-override](https://github.com/benbaker76/linux-acs-override) - 
-- [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 ### 📰 Recent Blog Posts
 
 - [How to install Waydroid and fix bugs](https://boisterous-toffee-60cc83.netlify.app/how-to-install-waydroid-and-fix-bugs/)
