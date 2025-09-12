@@ -7,8 +7,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenLinux/SteavenCachyOSSettings](https://github.com/SteavenLinux/SteavenCachyOSSettings) - Cachyos Settings that are not in SteavenSettings, made to use in cachyos
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/ArchSettings](https://github.com/SteavenLinux/ArchSettings) - This is the Settings that is related to arch linux
 ### 🌱 My latest projects
@@ -27,11 +27,11 @@
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [rn0x/altaqwaa-desktop](https://github.com/rn0x/altaqwaa-desktop) - التقوى | تطبيق إسلامي لسطح المكتب يعمل على انظمة التشغيل ويندوز ولينكس 
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [N3xoX1/2048](https://github.com/N3xoX1/2048) - 2048 port for Switch Homebrew.
 - [N3xoX1/nxemu](https://github.com/N3xoX1/nxemu) - 
 - [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor
-- [some-natalie/fedora-acs-override](https://github.com/some-natalie/fedora-acs-override) - Using the ACS override patch for Fedora to split identical hardware in the kernel
 ### 📰 Recent Blog Posts
 
 - [How to install Waydroid and fix bugs](https://boisterous-toffee-60cc83.netlify.app/how-to-install-waydroid-and-fix-bugs/)
