@@ -27,11 +27,11 @@
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [TwintailTeam/TwintailLauncher](https://github.com/TwintailTeam/TwintailLauncher) - A multi-platform launcher for your anime games.
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl&#39;s Repacks Launcher. Made using Tauri with SolidJS.
 - [rn0x/altaqwaa-desktop](https://github.com/rn0x/altaqwaa-desktop) - التقوى | تطبيق إسلامي لسطح المكتب يعمل على انظمة التشغيل ويندوز ولينكس 
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [N3xoX1/2048](https://github.com/N3xoX1/2048) - 2048 port for Switch Homebrew.
-- [N3xoX1/nxemu](https://github.com/N3xoX1/nxemu) - 
 ### 📰 Recent Blog Posts
 
 - [How to install Waydroid and fix bugs](https://boisterous-toffee-60cc83.netlify.app/how-to-install-waydroid-and-fix-bugs/)
