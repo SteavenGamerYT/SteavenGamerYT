@@ -27,11 +27,11 @@
 - [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
+- [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on Dual-CCD AMD 3D V-Cache processors.
 - [Weather-OS/WineGDK](https://github.com/Weather-OS/WineGDK) - GDK Components and *some* WinRT Components ported to Wine.
 - [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
 - [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - AutoSubSync is a user-friendly Python tool that helps you easily synchronize subtitle files. It supports various subtitle formats and allows you to sync subtitles effortlessly by shifting subtitle timings automatically or manually with a millisecond offset.
 - [eden-emulator/Releases](https://github.com/eden-emulator/Releases) - Eden&#39;s Releases
-- [TwintailTeam/TwintailLauncher](https://github.com/TwintailTeam/TwintailLauncher) - A multi-platform launcher for your anime games.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
