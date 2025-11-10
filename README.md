@@ -20,18 +20,18 @@
 - [SteavenGamerYT/ArchLinuxRepo](https://github.com/SteavenGamerYT/ArchLinuxRepo) - Best Linux repo for Omar Packages
 ### 🔨 My recent Pull Requests
 
+- [readme is now amazing i hope this gets merged](https://github.com/Ast3risk-ops/channelban/pull/3) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
+- [ok fine now its python 2 so it can run on windows 7](https://github.com/Ast3risk-ops/channelban/pull/2) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
+- [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
-- [Add support for 6.9 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/43) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
-- [NVIDIA-Linux-x86_64-570.133.07.run](https://github.com/Frogging-Family/nvidia-all/pull/286) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
-- [570.124.04](https://github.com/Frogging-Family/nvidia-all/pull/285) on [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all)
 ### ⭐ Recent Stars
 
-- [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) - Ext4 file system driver for Windows
-- [integralfx/MemTestHelper](https://github.com/integralfx/MemTestHelper) - C# WPF to automate HCI MemTest
-- [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on Dual-CCD AMD 3D V-Cache processors.
-- [Weather-OS/WineGDK](https://github.com/Weather-OS/WineGDK) - GDK Components and *some* WinRT Components ported to Wine.
-- [RinCat/RTL88x2BU-Linux-Driver](https://github.com/RinCat/RTL88x2BU-Linux-Driver) - Realtek RTL88x2BU WiFi USB Driver for Linux
+- [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban) - small bad discord bot to ban people posting to a channel, primarily developed for the blendOS discord.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [muflone/pkgbuilds](https://github.com/muflone/pkgbuilds) - My Arch Linux PKGBUILDs
+- [JeelsBoobz/http-injector](https://github.com/JeelsBoobz/http-injector) - http ssl ssh tunneling vpn for android and linux devices
+- [bRootForceOfficial/vbox_stealth](https://github.com/bRootForceOfficial/vbox_stealth) - Bash script that spoofs hardware identifiers and some other things to better disguise a VirtualBox VM
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
