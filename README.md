@@ -27,11 +27,11 @@
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [mmBesar/DebianSway](https://github.com/mmBesar/DebianSway) - Personal scripts to install and configure Sway on Debian 13
+- [ryzendew/Rustora](https://github.com/ryzendew/Rustora) - A Fedora Package Manager Written in Rust
+- [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
+- [ryzendew/Linux-Tips-and-Tricks](https://github.com/ryzendew/Linux-Tips-and-Tricks) - Just a Wiki For Linux guides!
 - [InboxWhiz/gmail-declutter-extension](https://github.com/InboxWhiz/gmail-declutter-extension) - Chrome extension to declutter your Gmail in seconds - unsubscribe and remove bulk emails effortlessly.
-- [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
-- [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban) - small discord bot to ban people posting to a channel, primarily developed for the blendOS discord but works anywhere.
-- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-- [muflone/pkgbuilds](https://github.com/muflone/pkgbuilds) - My Arch Linux PKGBUILDs
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
