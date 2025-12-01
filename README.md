@@ -27,11 +27,11 @@
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [alexbakker/aegis-simple-icons](https://github.com/alexbakker/aegis-simple-icons) - Icon pack for Aegis Authenticator based on simple-icons
+- [hustlerone/nix-minecraft](https://github.com/hustlerone/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem
+- [ThioJoe/_contribFork_AutoHotkey](https://github.com/ThioJoe/_contribFork_AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-- [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) - Servers for our website, HTTP/HTTPS connectivity checks, HTTPS network time, NTP (for Qualcomm XTRA), Broadcom PSDS cache, Samsung PSDS cache, Qualcomm PSDS (XTRA) cache, SUPL proxy, attestation key provisioning proxy, Vanadium component update check/download proxy, network location proxy and geocoding proxy.
-- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
