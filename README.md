@@ -27,11 +27,11 @@
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [NoirCatto/AmdGpuPassthrough](https://github.com/NoirCatto/AmdGpuPassthrough) - KVM setup with a GPU passthrough on a full-AMD system (Arch linux/Win11)
 - [inga-lovinde/RadeonResetBugFix](https://github.com/inga-lovinde/RadeonResetBugFix) - Radeon Reset Bug fix service
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment
 - [alexbakker/aegis-simple-icons](https://github.com/alexbakker/aegis-simple-icons) - Icon pack for Aegis Authenticator based on simple-icons
 - [hustlerone/nix-minecraft](https://github.com/hustlerone/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem
-- [ThioJoe/_contribFork_AutoHotkey](https://github.com/ThioJoe/_contribFork_AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
