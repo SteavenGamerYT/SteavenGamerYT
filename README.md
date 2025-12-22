@@ -6,8 +6,8 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
@@ -27,11 +27,11 @@
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [archlinux-jerry/nvidia-340xx](https://github.com/archlinux-jerry/nvidia-340xx) - 
 - [nithou/steamgrid](https://github.com/nithou/steamgrid) - Downloads images to fill your Steam grid view
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) - Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [NoirCatto/AmdGpuPassthrough](https://github.com/NoirCatto/AmdGpuPassthrough) - KVM setup with a GPU passthrough on a full-AMD system (Arch linux/Win11)
 - [inga-lovinde/RadeonResetBugFix](https://github.com/inga-lovinde/RadeonResetBugFix) - Radeon Reset Bug fix service
-- [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
