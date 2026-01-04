@@ -27,11 +27,11 @@
 - [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [angelbruni/Geckium](https://github.com/angelbruni/Geckium) - Chrome 1 - 58 theme for Firefox 115&#43;
+- [NetworkNeighborhood/Marble](https://github.com/NetworkNeighborhood/Marble) - Firefox fork that aims to restore the Photon user interface, along with native controls that were removed in newer versions of Firefox. 
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [archlinux-jerry/nvidia-340xx](https://github.com/archlinux-jerry/nvidia-340xx) - 
 - [nithou/steamgrid](https://github.com/nithou/steamgrid) - Downloads images to fill your Steam grid view
-- [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) - Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
-- [NoirCatto/AmdGpuPassthrough](https://github.com/NoirCatto/AmdGpuPassthrough) - KVM setup with a GPU passthrough on a full-AMD system (Arch linux/Win11)
-- [inga-lovinde/RadeonResetBugFix](https://github.com/inga-lovinde/RadeonResetBugFix) - Radeon Reset Bug fix service
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
