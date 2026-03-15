@@ -20,18 +20,18 @@
 - [SteavenGamerYT/Cuphead-decomp](https://github.com/SteavenGamerYT/Cuphead-decomp) - Cuphead Decompilation
 ### 🔨 My recent Pull Requests
 
+- [english](https://github.com/medinacristofer034-art/SwitchOptimizerMods/pull/3) on [medinacristofer034-art/SwitchOptimizerMods](https://github.com/medinacristofer034-art/SwitchOptimizerMods)
 - [readme is now amazing i hope this gets merged](https://github.com/Ast3risk-ops/channelban/pull/3) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [ok fine now its python 2 so it can run on windows 7](https://github.com/Ast3risk-ops/channelban/pull/2) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
-- [Update to work with nixos 25.05](https://github.com/casualsnek/waydroid_script/pull/233) on [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script)
 ### ⭐ Recent Stars
 
+- [medinacristofer034-art/SwitchOptimizerMods](https://github.com/medinacristofer034-art/SwitchOptimizerMods) - Switch Optimizar Mods: Optimización extrema (Nivel Patata) para emuladores de Switch. Guías y mods de rendimiento (FPS Fix) para PC de gama media con i3 &#43; GTX 1650.  Emuladores Compatibles: Yuzu, Sudachi, Suyu, Citron, Eden, Ryujinx, KenshiNX Y Futuros Emuladores
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [Etaash-mathamsetty/Proton](https://github.com/Etaash-mathamsetty/Proton) - Proton-EM is a Development Oriented Compatibility tool for Steam Play based on Wine and additional components
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
-- [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
