@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [ChrisGamer5013/AMD-Ghost-Enviroment](https://github.com/ChrisGamer5013/AMD-Ghost-Enviroment) - Allows AMD GPU&#39;s to run CUDA* only software
+- [linuxgamerlife/debianinstaller](https://github.com/linuxgamerlife/debianinstaller) - This exists because I was curious whether you can get something close to the same experience as Arch, but on Debian.  It is 100% vibecoded, but intelligently prompted by me.  This is a proof of concept. One thing I like about Arch is the build-from-nothing aspect, and this project is an attempt to get a similar feel with a Debian base install.
 - [PeppoDev/icon-matcher](https://github.com/PeppoDev/icon-matcher) - 
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 - [tunis4/Fishix](https://github.com/tunis4/Fishix) - A hobby kernel with Linux binary compatibility.
-- [medinacristofer034-art/SwitchOptimizerMods](https://github.com/medinacristofer034-art/SwitchOptimizerMods) - Switch Optimizar Mods: Optimización extrema (Nivel Patata) para emuladores de Switch. Guías y mods de rendimiento (FPS Fix) para PC de gama media con i3 &#43; GTX 1650.  Emuladores Compatibles: Yuzu, Sudachi, Suyu, Citron, Eden, Ryujinx, KenshiNX Y Futuros Emuladores
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
