@@ -27,7 +27,7 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
-- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) - Allows AMD GPU&#39;s to run CUDA* only software
+- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) - Allows AMD GPU&#39;s to run CUDA only software
 - [linuxgamerlife/debianinstaller](https://github.com/linuxgamerlife/debianinstaller) - This exists because I was curious whether you can get something close to the same experience as Arch, but on Debian.  It is 100% vibecoded, but intelligently prompted by me.  This is a proof of concept. One thing I like about Arch is the build-from-nothing aspect, and this project is an attempt to get a similar feel with a Debian base install.
 - [PeppoDev/icon-matcher](https://github.com/PeppoDev/icon-matcher) - 
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
