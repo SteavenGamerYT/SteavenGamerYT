@@ -6,8 +6,8 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [jshchnz/codemaxxing](https://github.com/jshchnz/codemaxxing) - 
+- [jshchnz/codemaxxed](https://github.com/jshchnz/codemaxxed) - 
 - [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) - Allows AMD GPU&#39;s to run CUDA only software
 - [linuxgamerlife/debianinstaller](https://github.com/linuxgamerlife/debianinstaller) - This exists because I was curious whether you can get something close to the same experience as Arch, but on Debian.  It is 100% vibecoded, but intelligently prompted by me.  This is a proof of concept. One thing I like about Arch is the build-from-nothing aspect, and this project is an attempt to get a similar feel with a Debian base install.
 - [PeppoDev/icon-matcher](https://github.com/PeppoDev/icon-matcher) - 
-- [SteavenToolBox/Windows-CPP](https://github.com/SteavenToolBox/Windows-CPP) - 
-- [tunis4/Fishix](https://github.com/tunis4/Fishix) - A hobby kernel with Linux binary compatibility.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
