@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) - Unofficial Android port of Unleashed Recompiled, built with Anthropic&#39;s Fable 5 AI under human direction, device testing and debugging. Artifacts, freezes and audio issues possible. SPECIAL THANKS to everyone testing and reporting.
 - [mattkeenan/zenpower5](https://github.com/mattkeenan/zenpower5) - Linux kernel driver for AMD Zen CPU monitoring (Zen 1-5): temperature, voltage, current, and power via SVI2/RAPL. Multi-file architecture with Zen 5 (Strix Halo) support.
 - [er-bharat/Win8DE](https://github.com/er-bharat/Win8DE) - windows 8 like de for linux
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is an innovative not-desktop environment for Linux made with modern technologies like Flutter and Rust.
-- [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
