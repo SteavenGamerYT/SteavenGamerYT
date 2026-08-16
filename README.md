@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [TouchController/TouchController](https://github.com/TouchController/TouchController) - The TouchController monorepo
+- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) - The great gaming migration to Linux
 - [pawan295/Appleinteltgldriver.kext](https://github.com/pawan295/Appleinteltgldriver.kext) - Working on custom kext to get Intel Iris XE graphics (Tiger Lake) works on hackintosh. Inviting Devloper to work on this project and let start Iris XE on HAckintosh
 - [dpadGuy/SalsaNOW](https://github.com/dpadGuy/SalsaNOW) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
 - [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
-- [Kolgrim33/arch-gf](https://github.com/Kolgrim33/arch-gf) - Your Arch liinux girlfriend
-- [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher which aims to &#39;unblock&#39; the use of Offline Accounts, disabling the restriction of having a functional Online Account.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
