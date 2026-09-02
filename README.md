@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
+- [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 - [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [OMGDiscord/OMG-Everything](https://github.com/OMGDiscord/OMG-Everything) - SteavenGamerYT Community Discord server main bot
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
-- [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme](https://github.com/SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme) - SteavenGamerYT SDI &amp; SDIO Theme
