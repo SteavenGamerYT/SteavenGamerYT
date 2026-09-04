@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [shihabal3amri/tom-jerry-war-of-the-whiskers-pc](https://github.com/shihabal3amri/tom-jerry-war-of-the-whiskers-pc) - Native Windows port of Tom &amp; Jerry: War of the Whiskers (Xbox, 2003). Not an emulator. Ships no game data - the installer extracts from your own disc image.
-- [cohaereo/wotwdecomp](https://github.com/cohaereo/wotwdecomp) - A decompilation of Tom and Jerry War of the Whiskers brought to you by one dude
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
