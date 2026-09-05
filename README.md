@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
+- [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
+- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
 - [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
+- [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
 - [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [OMGDiscord/OMG-Everything](https://github.com/OMGDiscord/OMG-Everything) - SteavenGamerYT Community Discord server main bot
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme](https://github.com/SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme) - SteavenGamerYT SDI &amp; SDIO Theme
