@@ -8,8 +8,8 @@
 
 - [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
 - [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
-- [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 - [SteavenLinux/SteavenLinux](https://github.com/SteavenLinux/SteavenLinux) - SteavenLinux
+- [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 - [SteavenLinux/PC-PersonalSettings](https://github.com/SteavenLinux/PC-PersonalSettings) - This is my pc only settings
 ### 🌱 My latest projects
 
