@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
+- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
+- [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
+- [SteavenLinux/Linver](https://github.com/SteavenLinux/Linver) - Linver
 - [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
-- [SteavenLinux/.github](https://github.com/SteavenLinux/.github) - 
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme](https://github.com/SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme) - SteavenGamerYT SDI &amp; SDIO Theme
