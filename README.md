@@ -6,10 +6,10 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
-- [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
-- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
+- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
+- [SteavenLinux/SteavenInstaller](https://github.com/SteavenLinux/SteavenInstaller) - SteavenInstaller
+- [SteavenLinux/SteavenLinuxISO](https://github.com/SteavenLinux/SteavenLinuxISO) - SteavenLinuxISO
 - [SteavenGamerYT/Website](https://github.com/SteavenGamerYT/Website) - 
 ### 🌱 My latest projects
 
