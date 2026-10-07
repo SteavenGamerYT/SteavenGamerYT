@@ -7,17 +7,17 @@
 ### 👷 Check out what I'm currently working on
 
 - [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
+- [SteavenGamerYT/LibreOffice-Nord-Red-Dark-Theme](https://github.com/SteavenGamerYT/LibreOffice-Nord-Red-Dark-Theme) - LibreOffice Nord Red Dark Theme
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [OMGDiscord/OMG-Everything](https://github.com/OMGDiscord/OMG-Everything) - SteavenGamerYT Community Discord server main bot
-- [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 ### 🌱 My latest projects
 
+- [SteavenGamerYT/LibreOffice-Nord-Red-Dark-Theme](https://github.com/SteavenGamerYT/LibreOffice-Nord-Red-Dark-Theme) - LibreOffice Nord Red Dark Theme
 - [SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme](https://github.com/SteavenGamerYT/SteavenGamerYT-SDI-SDIO-Theme) - SteavenGamerYT SDI &amp; SDIO Theme
 - [SteavenGamerYT/SteavenRefind](https://github.com/SteavenGamerYT/SteavenRefind) - Refind Theme made by Omar Hany Kasban
 - [SteavenGamerYT/SteavenVentoy](https://github.com/SteavenGamerYT/SteavenVentoy) - SteavenVentoy
 - [SteavenGamerYT/unity-project-2d](https://github.com/SteavenGamerYT/unity-project-2d) - 
-- [SteavenGamerYT/Cuphead-decomp](https://github.com/SteavenGamerYT/Cuphead-decomp) - Cuphead Decompilation
 ### 🔨 My recent Pull Requests
 
 - [english](https://github.com/medinacristofer034-art/SwitchOptimizerMods/pull/3) on [medinacristofer034-art/SwitchOptimizerMods](https://github.com/medinacristofer034-art/SwitchOptimizerMods)
