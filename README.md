@@ -27,11 +27,11 @@
 - [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
+- [DevCat3/android_device_samsung_gta4lve](https://github.com/DevCat3/android_device_samsung_gta4lve) - TWRP, OFRP, PBRP. SHRP, Recovery for Samsung Galaxy Tab A7 (SM-T509)
 - [Smu1zel/POP4.2](https://github.com/Smu1zel/POP4.2) - &#34;Popping&#34; the SSE4.2 requirement in Windows 11.
 - [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) - Split your metered internet bundle fairly across every person in the house. Each user gets an allowance (fixed GB, or an equal share of what&#39;s left), their devices all share it, and the moment the allowance runs out every device they own is cut at once.
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
