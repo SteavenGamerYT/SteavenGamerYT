@@ -20,18 +20,18 @@
 - [SteavenGamerYT/SteavenVentoy](https://github.com/SteavenGamerYT/SteavenVentoy) - SteavenVentoy
 ### 🔨 My recent Pull Requests
 
+- [Add support for 6.11 runtime](https://github.com/flathub/org.kde.KStyle.Kvantum/pull/53) on [flathub/org.kde.KStyle.Kvantum](https://github.com/flathub/org.kde.KStyle.Kvantum)
 - [english](https://github.com/medinacristofer034-art/SwitchOptimizerMods/pull/3) on [medinacristofer034-art/SwitchOptimizerMods](https://github.com/medinacristofer034-art/SwitchOptimizerMods)
 - [readme is now amazing i hope this gets merged](https://github.com/Ast3risk-ops/channelban/pull/3) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [ok fine now its python 2 so it can run on windows 7](https://github.com/Ast3risk-ops/channelban/pull/2) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 - [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
-- [break old kernels but support 6.16](https://github.com/BoukeHaarsma23/zenergy/pull/17) on [BoukeHaarsma23/zenergy](https://github.com/BoukeHaarsma23/zenergy)
 ### ⭐ Recent Stars
 
-- [EvanSunde/pipewire-immersive](https://github.com/EvanSunde/pipewire-immersive) - Make your linux sound Very immersive
-- [DevCat3/android_device_samsung_gta4lve](https://github.com/DevCat3/android_device_samsung_gta4lve) - TWRP, OFRP, PBRP. SHRP, Recovery for Samsung Galaxy Tab A7 (SM-T509)
-- [Smu1zel/POP4.2](https://github.com/Smu1zel/POP4.2) - &#34;Popping&#34; the SSE4.2 requirement in Windows 11.
-- [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) - Split your metered internet bundle fairly across every person in the house. Each user gets an allowance (fixed GB, or an equal share of what&#39;s left), their devices all share it, and the moment the allowance runs out every device they own is cut at once.
-- [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops 
+- [SteavenGamerYT/fantech-controllers](https://github.com/SteavenGamerYT/fantech-controllers) - 
+- [RuiPereiraDev/SimpleScore](https://github.com/RuiPereiraDev/SimpleScore) - A simple animated scoreboard plugin for your minecraft server.
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
