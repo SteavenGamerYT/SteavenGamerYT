@@ -7,10 +7,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [OMGDiscord/OMG-Everything](https://github.com/OMGDiscord/OMG-Everything) - SteavenGamerYT Community Discord server main bot
+- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/fantech-controllers](https://github.com/SteavenGamerYT/fantech-controllers) - 
-- [SteavenGamerYT/Dot-Files-Windows](https://github.com/SteavenGamerYT/Dot-Files-Windows) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/fantech-controllers](https://github.com/SteavenGamerYT/fantech-controllers) - 
