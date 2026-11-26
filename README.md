@@ -27,11 +27,11 @@
 - [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 ### ⭐ Recent Stars
 
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [FranciumOS-org/AirPort_RTW89](https://github.com/FranciumOS-org/AirPort_RTW89) - RTW89 Realtek WiFi Card support kext for macOS
 - [nullmoth/1401](https://github.com/nullmoth/1401) - Install macOS on your PC from Windows
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) - Experimental Darling runtime patches and tools for testing the macOS League client on Linux
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
