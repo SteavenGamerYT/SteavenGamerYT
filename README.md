@@ -27,11 +27,11 @@
 - [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 ### ⭐ Recent Stars
 
+- [mohamedkareem2331/Mohamed-Game-Platform](https://github.com/mohamedkareem2331/Mohamed-Game-Platform) - 
 - [SteavenLinux/HP-OmniBook-5](https://github.com/SteavenLinux/HP-OmniBook-5) - Linux fixes and utilities for the HP OmniBook 5 Flip (14-km0xxx).
 - [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [FranciumOS-org/AirPort_RTW89](https://github.com/FranciumOS-org/AirPort_RTW89) - RTW89 Realtek WiFi Card support kext for macOS
-- [nullmoth/1401](https://github.com/nullmoth/1401) - Install macOS on your PC from Windows
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
@@ -40,8 +40,8 @@
 - [How to Combine Audio Sources](https://boisterous-toffee-60cc83.netlify.app/how-to-combine-audio-sources/)
 - [How to Fix Cracking Audio on linux](https://boisterous-toffee-60cc83.netlify.app/how-to-fix-cracking-audio-on-linux/)
 ### 📫 How to reach me:
-  - Website   : <https://boisterous-toffee-60cc83.netlify.app>
-  - Discord   : <https://discord.gg/x3VgsCtrDk>
+  - Website   : <http://website.omarhanykasban.online>
+  - Discord   : <http://discord.omarhanykasban.online>
   - Youtube   : <https://youtube.com/SteavenGamerYT1>
   - Twitch    : <https://twitch.tv/steavengameryt1>
   - TikTok    : <https://tiktok.com/@steavengameryt1>
