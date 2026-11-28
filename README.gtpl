@@ -21,7 +21,7 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://boisterous-toffee-60cc83.netlify.app/index.xml" 5 }}
+{{ range rss "http://website.omarhanykasban.online/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
