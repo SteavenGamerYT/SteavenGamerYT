@@ -6,11 +6,11 @@
 </a></p>
 ### 👷 Check out what I'm currently working on
 
+- [SteavenLinux/HP-OmniBook-5](https://github.com/SteavenLinux/HP-OmniBook-5) - Linux fixes and utilities for the HP OmniBook 5 Flip (14-km0xxx).
 - [SteavenLinux/SteavenSettings](https://github.com/SteavenLinux/SteavenSettings) - This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations. That can work on Arch Linux and Fedora.
 - [SteavenGamerYT/Dot-Files](https://github.com/SteavenGamerYT/Dot-Files) -   Dotfiles are the customization files (their filenames usually begin with a period) that are used to personalize your linux or other Unix-based system. This repository contains my personal dotfiles. They are stored here for convenience so that I may
 - [SteavenGamerYT/unity-project](https://github.com/SteavenGamerYT/unity-project) - Unity Poject
 - [SteavenGamerYT/Super-Orus-3](https://github.com/SteavenGamerYT/Super-Orus-3) - Super Orus 3 is a fast-paced 3D first-person shooter built in Unity (Unity 6 / 6000.5.x).
-- [SteavenLinux/PKGBUILDS](https://github.com/SteavenLinux/PKGBUILDS) - Arch Linux PKGBUILDs
 ### 🌱 My latest projects
 
 - [SteavenGamerYT/Super-Orus-3](https://github.com/SteavenGamerYT/Super-Orus-3) - Super Orus 3 is a fast-paced 3D first-person shooter built in Unity (Unity 6 / 6000.5.x).
@@ -27,11 +27,11 @@
 - [Converted to nodejs discord js by chatgpt](https://github.com/Ast3risk-ops/channelban/pull/1) on [Ast3risk-ops/channelban](https://github.com/Ast3risk-ops/channelban)
 ### ⭐ Recent Stars
 
+- [SteavenLinux/HP-OmniBook-5](https://github.com/SteavenLinux/HP-OmniBook-5) - Linux fixes and utilities for the HP OmniBook 5 Flip (14-km0xxx).
 - [Marvisak/VIctory](https://github.com/Marvisak/VIctory) - An attempt at running GTA VI on PC
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [FranciumOS-org/AirPort_RTW89](https://github.com/FranciumOS-org/AirPort_RTW89) - RTW89 Realtek WiFi Card support kext for macOS
 - [nullmoth/1401](https://github.com/nullmoth/1401) - Install macOS on your PC from Windows
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 ### 📰 Recent Blog Posts
 
 - [How to install Windows 11 correctly](https://boisterous-toffee-60cc83.netlify.app/how-to-install-windows-11-correctly/)
