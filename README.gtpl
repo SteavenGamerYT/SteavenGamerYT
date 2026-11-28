@@ -25,8 +25,8 @@
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
-  - Website   : <https://boisterous-toffee-60cc83.netlify.app>
-  - Discord   : <https://discord.gg/x3VgsCtrDk>
+  - Website   : <http://website.omarhanykasban.online>
+  - Discord   : <http://discord.omarhanykasban.online>
   - Youtube   : <https://youtube.com/SteavenGamerYT1>
   - Twitch    : <https://twitch.tv/steavengameryt1>
   - TikTok    : <https://tiktok.com/@steavengameryt1>
